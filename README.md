@@ -1,1 +1,1 @@
-# module_2_assignment-
+মডিউল-২ এর অ্যাসাইনমেন্টের ফাইলগুলো জাস্ট VS-Code এ ওপেন করে Terminal অথবা Output তে রান করলে Result পেয়ে যাবেন। 
